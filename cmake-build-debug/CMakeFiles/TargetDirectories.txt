@@ -1,0 +1,3 @@
+C:/git/tv_shows_console_app/cmake-build-debug/CMakeFiles/tv_shows_console_app.dir
+C:/git/tv_shows_console_app/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/git/tv_shows_console_app/cmake-build-debug/CMakeFiles/rebuild_cache.dir
