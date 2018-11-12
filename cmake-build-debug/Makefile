@@ -122,6 +122,141 @@ tv_shows_console_app/fast:
 	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/build
 .PHONY : tv_shows_console_app/fast
 
+Livestream.obj: Livestream.cpp.obj
+
+.PHONY : Livestream.obj
+
+# target to build an object file
+Livestream.cpp.obj:
+	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/Livestream.cpp.obj
+.PHONY : Livestream.cpp.obj
+
+Livestream.i: Livestream.cpp.i
+
+.PHONY : Livestream.i
+
+# target to preprocess a source file
+Livestream.cpp.i:
+	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/Livestream.cpp.i
+.PHONY : Livestream.cpp.i
+
+Livestream.s: Livestream.cpp.s
+
+.PHONY : Livestream.s
+
+# target to generate assembly for a file
+Livestream.cpp.s:
+	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/Livestream.cpp.s
+.PHONY : Livestream.cpp.s
+
+Movie.obj: Movie.cpp.obj
+
+.PHONY : Movie.obj
+
+# target to build an object file
+Movie.cpp.obj:
+	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/Movie.cpp.obj
+.PHONY : Movie.cpp.obj
+
+Movie.i: Movie.cpp.i
+
+.PHONY : Movie.i
+
+# target to preprocess a source file
+Movie.cpp.i:
+	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/Movie.cpp.i
+.PHONY : Movie.cpp.i
+
+Movie.s: Movie.cpp.s
+
+.PHONY : Movie.s
+
+# target to generate assembly for a file
+Movie.cpp.s:
+	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/Movie.cpp.s
+.PHONY : Movie.cpp.s
+
+PieceOfCinematography.obj: PieceOfCinematography.cpp.obj
+
+.PHONY : PieceOfCinematography.obj
+
+# target to build an object file
+PieceOfCinematography.cpp.obj:
+	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/PieceOfCinematography.cpp.obj
+.PHONY : PieceOfCinematography.cpp.obj
+
+PieceOfCinematography.i: PieceOfCinematography.cpp.i
+
+.PHONY : PieceOfCinematography.i
+
+# target to preprocess a source file
+PieceOfCinematography.cpp.i:
+	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/PieceOfCinematography.cpp.i
+.PHONY : PieceOfCinematography.cpp.i
+
+PieceOfCinematography.s: PieceOfCinematography.cpp.s
+
+.PHONY : PieceOfCinematography.s
+
+# target to generate assembly for a file
+PieceOfCinematography.cpp.s:
+	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/PieceOfCinematography.cpp.s
+.PHONY : PieceOfCinematography.cpp.s
+
+Pool.obj: Pool.cpp.obj
+
+.PHONY : Pool.obj
+
+# target to build an object file
+Pool.cpp.obj:
+	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/Pool.cpp.obj
+.PHONY : Pool.cpp.obj
+
+Pool.i: Pool.cpp.i
+
+.PHONY : Pool.i
+
+# target to preprocess a source file
+Pool.cpp.i:
+	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/Pool.cpp.i
+.PHONY : Pool.cpp.i
+
+Pool.s: Pool.cpp.s
+
+.PHONY : Pool.s
+
+# target to generate assembly for a file
+Pool.cpp.s:
+	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/Pool.cpp.s
+.PHONY : Pool.cpp.s
+
+Series.obj: Series.cpp.obj
+
+.PHONY : Series.obj
+
+# target to build an object file
+Series.cpp.obj:
+	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/Series.cpp.obj
+.PHONY : Series.cpp.obj
+
+Series.i: Series.cpp.i
+
+.PHONY : Series.i
+
+# target to preprocess a source file
+Series.cpp.i:
+	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/Series.cpp.i
+.PHONY : Series.cpp.i
+
+Series.s: Series.cpp.s
+
+.PHONY : Series.s
+
+# target to generate assembly for a file
+Series.cpp.s:
+	$(MAKE) -f CMakeFiles\tv_shows_console_app.dir\build.make CMakeFiles/tv_shows_console_app.dir/Series.cpp.s
+.PHONY : Series.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +293,21 @@ help:
 	@echo ... tv_shows_console_app
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Livestream.obj
+	@echo ... Livestream.i
+	@echo ... Livestream.s
+	@echo ... Movie.obj
+	@echo ... Movie.i
+	@echo ... Movie.s
+	@echo ... PieceOfCinematography.obj
+	@echo ... PieceOfCinematography.i
+	@echo ... PieceOfCinematography.s
+	@echo ... Pool.obj
+	@echo ... Pool.i
+	@echo ... Pool.s
+	@echo ... Series.obj
+	@echo ... Series.i
+	@echo ... Series.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

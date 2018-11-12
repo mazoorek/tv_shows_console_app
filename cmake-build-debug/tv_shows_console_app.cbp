@@ -80,6 +80,45 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/git/tv_shows_console_app/CustomException.h">
+			<Option target="tv_shows_console_app"/>
+		</Unit>
+		<Unit filename="C:/git/tv_shows_console_app/FileNotFoundException.h">
+			<Option target="tv_shows_console_app"/>
+		</Unit>
+		<Unit filename="C:/git/tv_shows_console_app/Livestream.cpp">
+			<Option target="tv_shows_console_app"/>
+		</Unit>
+		<Unit filename="C:/git/tv_shows_console_app/Livestream.h">
+			<Option target="tv_shows_console_app"/>
+		</Unit>
+		<Unit filename="C:/git/tv_shows_console_app/Movie.cpp">
+			<Option target="tv_shows_console_app"/>
+		</Unit>
+		<Unit filename="C:/git/tv_shows_console_app/Movie.h">
+			<Option target="tv_shows_console_app"/>
+		</Unit>
+		<Unit filename="C:/git/tv_shows_console_app/OperationsOnListOfPiecesOfCinematography.h">
+			<Option target="tv_shows_console_app"/>
+		</Unit>
+		<Unit filename="C:/git/tv_shows_console_app/PieceOfCinematography.cpp">
+			<Option target="tv_shows_console_app"/>
+		</Unit>
+		<Unit filename="C:/git/tv_shows_console_app/PieceOfCinematography.h">
+			<Option target="tv_shows_console_app"/>
+		</Unit>
+		<Unit filename="C:/git/tv_shows_console_app/Pool.cpp">
+			<Option target="tv_shows_console_app"/>
+		</Unit>
+		<Unit filename="C:/git/tv_shows_console_app/Pool.h">
+			<Option target="tv_shows_console_app"/>
+		</Unit>
+		<Unit filename="C:/git/tv_shows_console_app/Series.cpp">
+			<Option target="tv_shows_console_app"/>
+		</Unit>
+		<Unit filename="C:/git/tv_shows_console_app/Series.h">
+			<Option target="tv_shows_console_app"/>
+		</Unit>
 		<Unit filename="C:/git/tv_shows_console_app/main.cpp">
 			<Option target="tv_shows_console_app"/>
 		</Unit>

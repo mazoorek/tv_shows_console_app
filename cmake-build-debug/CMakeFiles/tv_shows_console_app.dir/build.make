@@ -69,19 +69,94 @@ CMakeFiles/tv_shows_console_app.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tv_shows_console_app.dir/main.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\git\tv_shows_console_app\main.cpp -o CMakeFiles\tv_shows_console_app.dir\main.cpp.s
 
+CMakeFiles/tv_shows_console_app.dir/PieceOfCinematography.cpp.obj: CMakeFiles/tv_shows_console_app.dir/flags.make
+CMakeFiles/tv_shows_console_app.dir/PieceOfCinematography.cpp.obj: ../PieceOfCinematography.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\git\tv_shows_console_app\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tv_shows_console_app.dir/PieceOfCinematography.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tv_shows_console_app.dir\PieceOfCinematography.cpp.obj -c C:\git\tv_shows_console_app\PieceOfCinematography.cpp
+
+CMakeFiles/tv_shows_console_app.dir/PieceOfCinematography.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tv_shows_console_app.dir/PieceOfCinematography.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\git\tv_shows_console_app\PieceOfCinematography.cpp > CMakeFiles\tv_shows_console_app.dir\PieceOfCinematography.cpp.i
+
+CMakeFiles/tv_shows_console_app.dir/PieceOfCinematography.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tv_shows_console_app.dir/PieceOfCinematography.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\git\tv_shows_console_app\PieceOfCinematography.cpp -o CMakeFiles\tv_shows_console_app.dir\PieceOfCinematography.cpp.s
+
+CMakeFiles/tv_shows_console_app.dir/Series.cpp.obj: CMakeFiles/tv_shows_console_app.dir/flags.make
+CMakeFiles/tv_shows_console_app.dir/Series.cpp.obj: ../Series.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\git\tv_shows_console_app\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/tv_shows_console_app.dir/Series.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tv_shows_console_app.dir\Series.cpp.obj -c C:\git\tv_shows_console_app\Series.cpp
+
+CMakeFiles/tv_shows_console_app.dir/Series.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tv_shows_console_app.dir/Series.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\git\tv_shows_console_app\Series.cpp > CMakeFiles\tv_shows_console_app.dir\Series.cpp.i
+
+CMakeFiles/tv_shows_console_app.dir/Series.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tv_shows_console_app.dir/Series.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\git\tv_shows_console_app\Series.cpp -o CMakeFiles\tv_shows_console_app.dir\Series.cpp.s
+
+CMakeFiles/tv_shows_console_app.dir/Movie.cpp.obj: CMakeFiles/tv_shows_console_app.dir/flags.make
+CMakeFiles/tv_shows_console_app.dir/Movie.cpp.obj: ../Movie.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\git\tv_shows_console_app\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/tv_shows_console_app.dir/Movie.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tv_shows_console_app.dir\Movie.cpp.obj -c C:\git\tv_shows_console_app\Movie.cpp
+
+CMakeFiles/tv_shows_console_app.dir/Movie.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tv_shows_console_app.dir/Movie.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\git\tv_shows_console_app\Movie.cpp > CMakeFiles\tv_shows_console_app.dir\Movie.cpp.i
+
+CMakeFiles/tv_shows_console_app.dir/Movie.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tv_shows_console_app.dir/Movie.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\git\tv_shows_console_app\Movie.cpp -o CMakeFiles\tv_shows_console_app.dir\Movie.cpp.s
+
+CMakeFiles/tv_shows_console_app.dir/Livestream.cpp.obj: CMakeFiles/tv_shows_console_app.dir/flags.make
+CMakeFiles/tv_shows_console_app.dir/Livestream.cpp.obj: ../Livestream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\git\tv_shows_console_app\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/tv_shows_console_app.dir/Livestream.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tv_shows_console_app.dir\Livestream.cpp.obj -c C:\git\tv_shows_console_app\Livestream.cpp
+
+CMakeFiles/tv_shows_console_app.dir/Livestream.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tv_shows_console_app.dir/Livestream.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\git\tv_shows_console_app\Livestream.cpp > CMakeFiles\tv_shows_console_app.dir\Livestream.cpp.i
+
+CMakeFiles/tv_shows_console_app.dir/Livestream.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tv_shows_console_app.dir/Livestream.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\git\tv_shows_console_app\Livestream.cpp -o CMakeFiles\tv_shows_console_app.dir\Livestream.cpp.s
+
+CMakeFiles/tv_shows_console_app.dir/Pool.cpp.obj: CMakeFiles/tv_shows_console_app.dir/flags.make
+CMakeFiles/tv_shows_console_app.dir/Pool.cpp.obj: ../Pool.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\git\tv_shows_console_app\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/tv_shows_console_app.dir/Pool.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tv_shows_console_app.dir\Pool.cpp.obj -c C:\git\tv_shows_console_app\Pool.cpp
+
+CMakeFiles/tv_shows_console_app.dir/Pool.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tv_shows_console_app.dir/Pool.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\git\tv_shows_console_app\Pool.cpp > CMakeFiles\tv_shows_console_app.dir\Pool.cpp.i
+
+CMakeFiles/tv_shows_console_app.dir/Pool.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tv_shows_console_app.dir/Pool.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\git\tv_shows_console_app\Pool.cpp -o CMakeFiles\tv_shows_console_app.dir\Pool.cpp.s
+
 # Object files for target tv_shows_console_app
 tv_shows_console_app_OBJECTS = \
-"CMakeFiles/tv_shows_console_app.dir/main.cpp.obj"
+"CMakeFiles/tv_shows_console_app.dir/main.cpp.obj" \
+"CMakeFiles/tv_shows_console_app.dir/PieceOfCinematography.cpp.obj" \
+"CMakeFiles/tv_shows_console_app.dir/Series.cpp.obj" \
+"CMakeFiles/tv_shows_console_app.dir/Movie.cpp.obj" \
+"CMakeFiles/tv_shows_console_app.dir/Livestream.cpp.obj" \
+"CMakeFiles/tv_shows_console_app.dir/Pool.cpp.obj"
 
 # External object files for target tv_shows_console_app
 tv_shows_console_app_EXTERNAL_OBJECTS =
 
 tv_shows_console_app.exe: CMakeFiles/tv_shows_console_app.dir/main.cpp.obj
+tv_shows_console_app.exe: CMakeFiles/tv_shows_console_app.dir/PieceOfCinematography.cpp.obj
+tv_shows_console_app.exe: CMakeFiles/tv_shows_console_app.dir/Series.cpp.obj
+tv_shows_console_app.exe: CMakeFiles/tv_shows_console_app.dir/Movie.cpp.obj
+tv_shows_console_app.exe: CMakeFiles/tv_shows_console_app.dir/Livestream.cpp.obj
+tv_shows_console_app.exe: CMakeFiles/tv_shows_console_app.dir/Pool.cpp.obj
 tv_shows_console_app.exe: CMakeFiles/tv_shows_console_app.dir/build.make
 tv_shows_console_app.exe: CMakeFiles/tv_shows_console_app.dir/linklibs.rsp
 tv_shows_console_app.exe: CMakeFiles/tv_shows_console_app.dir/objects1.rsp
 tv_shows_console_app.exe: CMakeFiles/tv_shows_console_app.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\git\tv_shows_console_app\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable tv_shows_console_app.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\git\tv_shows_console_app\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable tv_shows_console_app.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\tv_shows_console_app.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
