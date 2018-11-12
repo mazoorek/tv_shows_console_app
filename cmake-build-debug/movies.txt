@@ -1,0 +1,29 @@
+5.5	71	Miss Jerry	1894	45	Romance	1	
+6.3	476	The Story of the Kelly Gang	1906	70	Biography,Crime,Drama	0	
+5.9	26	The Fairylogue and Radio-Plays	1908	120	Adventure,Fantasy	1	
+5.7	62	Don Juan de Serrallonga	1910	58	Adventure,Drama	1	
+6.0	19	The White Slave Trade	1910	45	Drama	0	
+6.2	154	The Battle of Trafalgar	1911	51	War	0	
+6.4	43	Les Misérables, Part 1: Jean Valjean	1913	60	Drama	0	
+5.1	377	Oedipus Rex	1911	56	Drama	0	
+7.1	1729	Den sorte drøm	1911	53	Drama	0	
+5.9	37	The Traitress	1911	48	Drama	0	
+6.6	67	Anny - Story of a Prostitute	1912	68	Drama,Romance	0	
+6.9	649	Cleopatra	1912	100	Drama,History	0	
+6.3	214	Dante's Inferno	1911	68	Adventure,Drama,Fantasy	0	
+6.8	180	The Great Circus Catastrophe	1912	45	Drama	0	
+5.6	200	The Flying Circus	1912	46	Drama	0	
+6.6	7	Madame DuBarry	1919	85	Biography,Drama	0	
+6.7	279	Quo Vadis?	1913	120	Drama,History	0	
+5.6	32	The Independence of Romania	1912	120	History,War	0	
+4.5	23	The Life and Death of King Richard III	1912	55	Drama	0	
+8.0	10	Saved in Mid-Air	1912	60	Drama	0	
+6.9	1766	Atlantis	1913	121	Drama	0	
+6.0	84	Blodets röst	1913	89	Drama	0	
+7.0	75	The Count of Monte Cristo	1913	69	Drama,History	0	
+5.9	23	What 80 Million Women Want	1913	56	Drama	0	
+5.0	32	Evangeline	1914	50	Drama	0	
+5.2	6	Fantômas: In the Shadow of the Guillotine	1913	54	Crime,Drama	0	
+6.0	7	From Dusk to Dawn	1913	90	Drama	0	
+7.2	814	Germinal; or, The Toll of Labor	1913	150	Drama	0	
+4.8	31	Brother Against Brother	1913	51	Drama	0	

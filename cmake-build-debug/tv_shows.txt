@@ -1,0 +1,30 @@
+3.3	7	Americana	1947	30	Family,Game-Show	0	1949
+8.5	110	Kraft Theatre	1947	60	Drama	0	1958
+5.9	7	Public Prosecutor	1947	20	Crime,Drama,Mystery	0	1951
+7.2	49	Actor's Studio	1948	30	Drama	0	1950
+6.4	12	Talent Scouts	1948	30	Comedy,Family,Music	0	1958
+8.0	5	Break the $250,000 Bank	1948	30	Family,Game-Show	0	1957
+7.3	112	Candid Camera	1948	30	Comedy,Family,Reality-TV	0	1950
+8.8	23	The Chevrolet Tele-Theatre	1948	30	Drama	0	1950
+7.9	90	Texaco Star Theatre	1948	60	Comedy,Family	0	1956
+8.1	24	The Morey Amsterdam Show	1948	30	Comedy,Family,Music	0	1950
+5.4	13	Okay, Mother	1948	30	Comedy,Family,Music	0	1951
+7.6	66	Perry Como's Kraft Music Hall	1948	60	Music	0	1967
+8.1	67	The Philco-Goodyear Television Playhouse	1948	60	Drama	0	1956
+7.9	183	Studio One in Hollywood	1948	60	Drama	0	1958
+7.8	989	The Ed Sullivan Show	1948	60	Comedy,Music	0	1971
+8.1	20	The Aldrich Family	1949	30	Comedy,Family	0	1953
+6.3	18	Arthur Godfrey and His Friends	1949	60	Music	0	1959
+7.3	20	The Big Story	1949	30	Drama	0	1959
+7.6	74	Captain Video and His Video Rangers	1949	30	Action,Adventure,Family	0	1955
+8.1	35	Cavalcade of Stars	1949	60	Comedy,Family,Music	0	1952
+7.3	29	The Ed Wynn Show	1949	30	Comedy,Music	0	1950
+8.1	44	Fireside Theatre	1949	30	Drama	0	1955
+8.3	128	The Ford Television Theatre	1952	30	Comedy,Drama,Music	0	1957
+8.1	130	The Goldbergs	1949	30	Comedy	0	1957
+7.9	234	Hopalong Cassidy	1952	60	Western	0	1954
+5.2	5	Leave It to the Girls	1949	30	Family,Talk-Show	0	1954
+7.4	74	The Life of Riley	1949	30	Comedy	0	1950
+7.6	103	Lights Out	1946	30	Horror,Mystery,Sci-Fi	0	1952
+7.9	1608	The Lone Ranger	1949	30	Western	0	1957
+8.3	109	Mama	1949	30	Comedy,Drama,Family	0	1957

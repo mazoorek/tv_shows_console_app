@@ -1,0 +1,5 @@
+6.7	1033	Jimmy Kimmel Live!	2003	60	Talk-Show	0	12	29	21:00
+7.1	987	Conan	2010	60	Talk-Show	0	9	17	23:00
+7.8	1502	Tour de France	2018	240	Sport	0	7	1	14:00
+8.1	2001	HCT World Championship	2018	120	Sport	0	18	12	23:00
+7.3	572	Kuba Wojewodzki	2018	50	Talk-Show	0	27	11	22:30
